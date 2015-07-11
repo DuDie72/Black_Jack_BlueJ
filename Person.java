@@ -45,7 +45,7 @@ public abstract class Person
              Karte karte = (Karte)k.gibKartenstapel().top();
              k.gibKartenstapel().pop();
              addiereZuErgebnis(karte.kartenWert());
-             System.out.println("Name: "+ gibName() + "\t Kartenwert: " + karte.kartenWert() + "\t Ergebnis: " + gibErgebnis());
+             System.out.println("Name: " + gibName() + "\t Kartenwert: " + karte.kartenWert() + "\t Ergebnis: " + gibErgebnis());
     }
     public abstract void spielen(Kartenstapel k);
     
