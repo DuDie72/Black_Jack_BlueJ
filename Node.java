@@ -17,6 +17,6 @@ public class Node
         }
 
         public Object getContent() {
-            return content;
+             return content;
         }
 } 
