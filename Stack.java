@@ -39,7 +39,7 @@ public class Stack
     public void push(Object pObject) {
         if (pObject != null) {
             Node lNode = new Node(pObject,head);
-            head=lNode;
+            head = lNode;
         }
     }
 
