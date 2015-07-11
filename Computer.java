@@ -10,7 +10,7 @@ public class Computer extends Person
     {
         setErgebnis(0);
         // Der Spieler erhält 2 Karten
-        while (gibErgebnis()<17)
+        while (gibErgebnis() < 17)
         {
             karteNehmen(k);
         }
