@@ -39,7 +39,7 @@ public class SpielSteuerung
 
     public void spielAuswerten(Spieler pSpieler, Computer qSpieler)
     {
-        if (pSpieler.gibErgebnis()==21)
+        if (pSpieler.gibErgebnis() == 21)
         {
             pSpieler.gewinnpunkteErhoehen();
             System.out.println(" " + pSpieler.gibName() + " hat nun " + pSpieler.gibGewinnpunkte() + " Punkte");
