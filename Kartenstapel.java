@@ -30,6 +30,6 @@ public class Kartenstapel
                 kartenstapel.push(new Karte(i));
                 a++;
             }        
-        }while(a<52);
+        }while(a < 52);
     }
 }
