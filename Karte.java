@@ -30,7 +30,7 @@ public class Karte
     }
     public String kartenFarbe()
     {
-        int x = kartennummer /13;
+        int x = kartennummer / 13;
         
         switch (x)
         {
