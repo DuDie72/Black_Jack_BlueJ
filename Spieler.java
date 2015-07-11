@@ -24,7 +24,7 @@ public class Spieler extends Person
         karteNehmen(k);
         weiterspielen = entscheiden(); 
         do
-        {   if (weiterspielen ==true)
+        {   if (weiterspielen == true)
             {
                 karteNehmen(k);
                 if (gibErgebnis() < 21)
