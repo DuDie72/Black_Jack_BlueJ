@@ -1,7 +1,6 @@
-
-This Project "Black_Jack_BlueJ" belongs to an IBook, which 
-will be soon available in the App Store. The IBook is made for Students
-to learn how to develope a simple Black Jack app with Android Studio.
+This Project "Black_Jack_BlueJ" belongs to the IBook "Der ADT Stack und die App Black Jack"
+(The ADT stack and the app Black Jack), which will be soon available in the App Store. 
+The IBook is made for Studentsto learn how to develope a simple Black Jack app with Android Studio.
 The IBook is mainly made for German students and is created with the 
 computer science school conventions of the German Federal land North Rhine 
 Westphalia.
