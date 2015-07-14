@@ -9,5 +9,5 @@ For Copyright questions have a look at the "LICENSE.TXT" file in the project.
 
 If you have furthermore questions or improvements feel free to contact one of the authors:
 
-Mrs Dr S. Terveer: evt. ihre E-mail Adresse, wenn sie das möchten.
-Mr Julian Dierkes: julian_dierkes@web.de
+Mrs. Dr S. Terveer: evt. ihre E-mail Adresse, wenn sie das möchten.
+Mr. Julian Dierkes: julian_dierkes@web.de
